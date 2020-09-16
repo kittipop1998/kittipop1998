@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, my name is Wine
+#### I'm single
+![I'm single](https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/119431174_3347819011975844_3408129157534755552_n.jpg?_nc_cat=101&_nc_sid=110474&_nc_ohc=4PUx6e5LCBIAX_KdBnf&_nc_ht=scontent.fbkk12-1.fna&oh=f8c60219856963c7187d5ec5eb3ab1a0&oe=5F86909F)
 
-<!--
-**kittipop1998/kittipop1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+เป็นคนร่าเริง ยิ้มง่าย เฉยๆ ว่าซ่าน 
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS/VUE/Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
